@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'https://fierce-sea-5651.herokuapp.com',
+	'url' => 'http://localhost',
 
 	/*
 	|--------------------------------------------------------------------------
