@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'larproject',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => 'mysql2.000webhost.com',
+			'database'  => 'a4079882_laravel',
+			'username'  => 'a4079882_laravel',
+			'password'  => '123quan',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
